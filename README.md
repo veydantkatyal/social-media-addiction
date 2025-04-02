@@ -4,6 +4,12 @@ This repository contains an end-to-end machine learning pipeline to predict **di
 
 ---
 
+## Web app design 
+Test out the website here [Click link for website](https://veydant1811-digital-addiction-detector.hf.space/?__theme=system&deep_link=EeDcnUVrgbo)
+
+Screenshot for gradio ui design is given below:
+![](./visuals/gradio_ui.jpg)
+
 ## Problem Definition
 
 The rise in social media usage has led to a growing concern over its addictive effects, especially among youth and digitally active individuals. However, predicting and identifying individuals at high risk of social media addiction remains a complex task, given the influence of various psychological and behavioral traits.
