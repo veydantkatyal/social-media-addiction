@@ -80,8 +80,6 @@ The project follows a **structured machine learning pipeline**:
 
 ## Results
 
-## 📈 Results
-
 | Model               | Accuracy | Precision | Recall | F1-Score |
 |--------------------|----------|-----------|--------|----------|
 | Decision Tree       | 1.00     | 1.00      | 1.00   | 1.00    |
